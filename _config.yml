@@ -36,8 +36,7 @@ plugins:
 category_dir: category/
 tag_dir: tag/
 
-disqus_url : ljbsju48@gmail.com
-disqus_id : leejb
+disqus-identifier : leejb
 
 defaults:
   -

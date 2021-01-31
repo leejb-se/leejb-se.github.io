@@ -2,6 +2,7 @@
 title : "첫글"
 date : "2020-01-31 18:08:00"
 categories : Free
+comments : true
 tags : [자유]
 ---
 # 첫 글 
