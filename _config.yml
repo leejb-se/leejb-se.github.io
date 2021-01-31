@@ -42,9 +42,10 @@ defaults:
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+      type: "post" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+      comments : true
 
 
 # Exclude from processing.

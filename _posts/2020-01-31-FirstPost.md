@@ -2,7 +2,7 @@
 title : "첫글"
 date : "2020-01-31 18:08:00"
 categories : Free
-comments : true
+comments : True
 tags : [자유]
 ---
 # 첫 글 
@@ -30,3 +30,4 @@ tags : [자유]
 - 부족한 CS지식들을 공부할 예정이다.  (내가 비전공자 이므로)
 
 최소한 일주일에 2post는 올리려고 노력은 해보겠다.  ~~꾸준히만 하자~~
+
