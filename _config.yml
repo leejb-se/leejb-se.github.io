@@ -41,7 +41,7 @@ disqus-identifier : leejb
 defaults:
   -
     scope:
-      path: "_posts" # an empty string here means all files in the project
+      path: "_posts/" # an empty string here means all files in the project
       type: "post" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
