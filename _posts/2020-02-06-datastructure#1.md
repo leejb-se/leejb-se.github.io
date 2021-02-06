@@ -1,7 +1,7 @@
 ---
 title : "자료구조 # array & list"
 date : "2020-02-06 10:26:00"
-categories : 자료구조
+categories : DS
 comments : True
 tags : []
 ---
